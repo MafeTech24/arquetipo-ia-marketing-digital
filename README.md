@@ -170,18 +170,32 @@ src/
 
 ## 🌐 Demo
 
-🔗 **Deploy:** [[Agregar link de Vercel acá](https://arquetipo-ia-marketing-digital.vercel.app/)]
+🔗 **Deploy:** https://arquetipo-ia-marketing-digital.vercel.app
+
+
+🐙 **Repo:** https://github.com/MafeTech24/arquetipo-ia-marketing-digital
+
 
 ### Screenshots
 
 **Landing:**
-![Landing](docs/landing.png)
+
+
+![Landing](mkdir/docs/landing.png)
+
+
 
 **Resultado generado por IA:**
-![Resultado](docs/resultado.png)
+
+
+![Resultado](mkdir/docs/resultado.png)
+
+
 
 ### 📄 Ejemplo de Output
-[Ver PDF de ejemplo — Arquetipo Laura Torres](docs/Arquetipo-Laura-Torres.pdf)
+
+
+[Ver PDF de ejemplo — Arquetipo Laura Torres](mkdir/docs/Arquetipo-Laura-Torres.pdf)
 
 
 
